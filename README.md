@@ -1,7 +1,7 @@
-# pockemon
+# pokemon
 
 Description. 
-The package pockemon is used to:
+The package pokemon is used to:
 
 - retornar dados de um pokemon informado.
 - retornar o cep informado.
@@ -10,16 +10,16 @@ The package pockemon is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pockemon
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pokemon
 
 ```bash
-pip install pockemon
+pip install pokemon
 ```
 
 ## Usage
 
 ```python
-from pockemon import req
+from pokemon import req
 retorna_dados_cep(cep)
 retorna_dados_pokemon(pokemon)
 retorna_response(url)
